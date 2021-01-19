@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "flm_c123q",
+  "mongoUri": "mongodb+srv://flm:12344321@cluster0.kt6sl.mongodb.net/app?retryWrites=true&w=majority"
+
+
+}
